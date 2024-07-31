@@ -7,4 +7,4 @@ The "Grocery Store Android Application" streamlines your shopping experience by 
 [![Watch the video](https://img.youtube.com/vi/PGsm4pN319g/hqdefault.jpg)](https://www.youtube.com/watch?v=PGsm4pN319g)
 
 ### CERTIFICATION
-<iframe src="file:///C:/Users/gopit/AppData/Local/Microsoft/Windows/INetCache/IE/FXDZCPMR/Android_internship_-_Smartinternz[1].pdf" width="600" height="800" style="border:none;"></iframe>
+[View the PDF](file:///C:/Users/gopit/AppData/Local/Microsoft/Windows/INetCache/IE/FXDZCPMR/Android_internship_-_Smartinternz[1].pdf)
