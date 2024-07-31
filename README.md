@@ -1,3 +1,8 @@
-#Grocery Store Android Application Development
+# Grocery Store Application Development
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+### INTRODUCTION
+The "Grocery Store Android Application" streamlines your shopping experience by providing a user-friendly platform for browsing products, managing your cart, and checking out seamlessly. Designed with convenience in mind, this app offers real-time updates, personalized recommendations, and efficient order management to enhance your grocery shopping efficiency and satisfaction.
+
+### Demonstration
+[![Watch the video](https://img.youtube.com/vi/PGsm4pN319g/hqdefault.jpg)](https://www.youtube.com/watch?v=PGsm4pN319g)
+
